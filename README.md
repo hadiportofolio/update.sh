@@ -6,3 +6,5 @@ This simple update and upgrade file Linux ubuntu
 2. wget https://github.com/hadiportofolio/update.sh/blob/main/update.sh
 
 3. sudo chmod +x /usr/local/bin/update.sh
+
+4. ./update.sh
