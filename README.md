@@ -1,8 +1,10 @@
 #root ubuntu via ssh
 
 #change config
-1. nano cd /etc/ssh/sshd_config
-2. 
+1. sudo nano cd /etc/ssh/sshd_config
+2. change premitrootlogin to yes (remove #)
+3. change root passwd : sudo passwd
+4. systemctl restart ssh
 
 
 
