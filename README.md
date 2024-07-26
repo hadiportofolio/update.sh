@@ -1,3 +1,11 @@
+#root ubuntu via ssh
+
+#change config
+1. nano cd /etc/ssh/sshd_config
+2. 
+
+
+
 # update.sh
 This simple update and upgrade file Linux ubuntu
 
@@ -8,3 +16,5 @@ This simple update and upgrade file Linux ubuntu
 3. sudo chmod +x /usr/local/bin/update.sh
 
 4. ./update.sh
+
+
