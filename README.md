@@ -20,3 +20,12 @@ This simple update and upgrade file Linux ubuntu
 4. ./update.sh
 
 
+------------------------------------------------------OR---------------------------------------------------------
+
+
+just update via terminal 
+
+apt-get update && sudo apt-get upgrade -y && sudo apt-get dist-upgrade -y
+
+
+
